@@ -23,5 +23,8 @@
     <ClInclude Include="SparseArray.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ArrQueue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
