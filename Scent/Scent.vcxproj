@@ -143,6 +143,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ArrQueue.h" />
+    <ClInclude Include="CircleArrQueue.h" />
     <ClInclude Include="SparseArray.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

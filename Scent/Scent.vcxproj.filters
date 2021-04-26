@@ -26,5 +26,8 @@
     <ClInclude Include="ArrQueue.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="CircleArrQueue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
